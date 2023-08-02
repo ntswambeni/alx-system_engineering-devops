@@ -8,4 +8,7 @@ This script prints the files and directories contained in the current directory
 This script changes the directory to the user home directory
 ##3-listfiles
 This script prints the files and directories contained in the current directory in long format
-
+##4-listmorefiles
+This script prints the files and directories contained in the current directory in long format including the hidden files
+##5-listfilesdigitonly
+This script prints the files and directories contained in the current directory in long format including the hidden files and with user and group IDs displayed numerically
