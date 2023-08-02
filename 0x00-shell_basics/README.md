@@ -4,3 +4,6 @@ Here we have a list of shell command and their purposes
 This script prints the current working directory
 ##1-listit
 This script prints the files and directories contained in the current directory
+##2-bring_me_home
+This script changes the directory to the user home directory
+
