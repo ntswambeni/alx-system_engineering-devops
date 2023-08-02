@@ -14,4 +14,6 @@ This script prints the files and directories contained in the current directory 
 This script prints the files and directories contained in the current directory in long format including the hidden files and with user and group IDs displayed numerically
 ##6-firstdirectory
 This script creates a new directory in /tmp called my_first_diretory
+##7-movethatfile
+This script move as file from /tmp/ to /tmp/my_first_directory
 
