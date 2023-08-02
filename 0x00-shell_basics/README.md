@@ -6,4 +6,6 @@ This script prints the current working directory
 This script prints the files and directories contained in the current directory
 ##2-bring_me_home
 This script changes the directory to the user home directory
+##3-listfiles
+This script prints the files and directories contained in the current directory in long format
 
