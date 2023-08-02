@@ -1,4 +1,6 @@
 #GIT COMMANDS
 Here we have a list of shell command and their purposes
-##pwd
-this command prints the current working directory
+##0-current_working_directory
+This script prints the current working directory
+##1-listit
+This script prints the files and directories contained in the current directory
