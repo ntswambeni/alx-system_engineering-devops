@@ -24,4 +24,5 @@ This script deletes /tmp/my_first_diretory
 This script changes the directory to the previous one
 ##11-lists
 This script lists all files in current diretory, parent directory and in boot directory in long format
- 
+##12-iamafile
+This script prints the type of iamafile stored in /tmp 
