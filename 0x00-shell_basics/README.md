@@ -18,4 +18,6 @@ This script creates a new directory in /tmp called my_first_diretory
 This script move as file from /tmp/ to /tmp/my_first_directory
 ##8-firstdelete
 This script deletes the file betty from /tmp/my_first_directory
+##9-firstdirdeletion
+This script deletes /tmp/my_first_diretory
 
