@@ -27,4 +27,7 @@ This script lists all files in current diretory, parent directory and in boot di
 ##12-iamafile
 This script prints the type of iamafile stored in /tmp
 ##13-symbolic_link
-This script adds a simbolic link to /bin/ls named __ls__ 
+This script adds a simbolic link to /bin/ls named __ls_
+##14-copy_html
+This script copies from the current directory all .html files that are newer to the ones in the parent and pasts in the parent directory 
+
