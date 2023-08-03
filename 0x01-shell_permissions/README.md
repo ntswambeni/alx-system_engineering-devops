@@ -8,4 +8,6 @@ This script prints the current user
 This script prints the groups the current user is in
 ##3-new-owner
 This script changes the owner of file hello to betty
+##4-empty
+This script creates an empty file called hello
 
