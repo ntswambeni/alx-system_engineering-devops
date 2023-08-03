@@ -14,3 +14,6 @@ This script creates an empty file called hello
 This script give sexecute permitions to the owner of the file hello
 ##6-multiple_permissions
 This script gives multiple permitions on file hello
+##7-everybody
+This script add execution permissions to all users
+
