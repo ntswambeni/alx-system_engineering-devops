@@ -20,4 +20,6 @@ This script move as file from /tmp/ to /tmp/my_first_directory
 This script deletes the file betty from /tmp/my_first_directory
 ##9-firstdirdeletion
 This script deletes /tmp/my_first_diretory
+##10-back
+This script changes the directory to the previous one
 
