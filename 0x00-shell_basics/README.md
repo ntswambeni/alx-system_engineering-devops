@@ -25,4 +25,6 @@ This script changes the directory to the previous one
 ##11-lists
 This script lists all files in current diretory, parent directory and in boot directory in long format
 ##12-iamafile
-This script prints the type of iamafile stored in /tmp 
+This script prints the type of iamafile stored in /tmp
+##13-symbolic_link
+This script adds a simbolic link to /bin/ls named __ls__ 
