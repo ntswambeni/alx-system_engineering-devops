@@ -10,4 +10,5 @@ This script prints the groups the current user is in
 This script changes the owner of file hello to betty
 ##4-empty
 This script creates an empty file called hello
-
+##5-execute
+this script give execute permitions to the owner of the file hello
