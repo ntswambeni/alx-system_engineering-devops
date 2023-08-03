@@ -6,4 +6,6 @@ This script changes the current user to betty
 This script prints the current user
 ##2-groups
 This script prints the groups the current user is in
+##3-new-owner
+This script changes the owner of file hello to betty
 
