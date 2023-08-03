@@ -11,4 +11,6 @@ This script changes the owner of file hello to betty
 ##4-empty
 This script creates an empty file called hello
 ##5-execute
-this script give execute permitions to the owner of the file hello
+This script give sexecute permitions to the owner of the file hello
+##6-multiple_permissions
+This script gives multiple permitions on file hello
