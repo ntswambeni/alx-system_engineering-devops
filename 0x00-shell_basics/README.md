@@ -16,4 +16,6 @@ This script prints the files and directories contained in the current directory 
 This script creates a new directory in /tmp called my_first_diretory
 ##7-movethatfile
 This script move as file from /tmp/ to /tmp/my_first_directory
+##8-firstdelete
+This script deletes the file betty from /tmp/my_first_directory
 
