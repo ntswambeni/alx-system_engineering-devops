@@ -18,4 +18,6 @@ This script gives multiple permitions on file hello
 This script adds execution permissions to all users
 ##8-James_Bond
 This script adds all permissions to other users
+##9-John_Doe
+This script adds all permissions to user, read and execute to group and write and read to others
 
