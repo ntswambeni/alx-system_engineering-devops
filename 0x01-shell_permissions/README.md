@@ -28,3 +28,5 @@ This script gives all the sub-directories of the current directory execute permi
 This script creates a directory named  my_dir and gives 751 permissions
 ##13-change_group
 This script changes the group of the file hello to school
+##100-change_owner_and_group
+This script changes the owner and the group owner to vincent and staff respectively
