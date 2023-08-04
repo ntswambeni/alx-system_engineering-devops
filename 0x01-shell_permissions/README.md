@@ -24,3 +24,5 @@ This script adds all permissions to user, read and execute to group and write an
 This script gives the hello file the same permitions of the olleh file
 ##11-directories_permissions
 This script gives all the sub-directories of the current directory execute permission
+##12-directory_permissions
+This script creates a directory named  my_dir and gives 751 permissions
