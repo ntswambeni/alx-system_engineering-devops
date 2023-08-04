@@ -20,4 +20,7 @@ This script adds execution permissions to all users
 This script adds all permissions to other users
 ##9-John_Doe
 This script adds all permissions to user, read and execute to group and write and read to others
-
+##10-mirror_permissions
+This script gives the hello file the same permitions of the olleh file
+##11-directories_permissions
+This script gives all the sub-directories of the current directory execute permission
