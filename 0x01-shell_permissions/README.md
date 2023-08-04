@@ -15,5 +15,7 @@ This script give sexecute permitions to the owner of the file hello
 ##6-multiple_permissions
 This script gives multiple permitions on file hello
 ##7-everybody
-This script add execution permissions to all users
+This script adds execution permissions to all users
+##8-James_Bond
+This script adds all permissions to other users
 
