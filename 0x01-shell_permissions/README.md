@@ -30,3 +30,6 @@ This script creates a directory named  my_dir and gives 751 permissions
 This script changes the group of the file hello to school
 ##100-change_owner_and_group
 This script changes the owner and the group owner to vincent and staff respectively
+##101-symbolic_link_permissions
+This script changes the owner and the group owner of _hello file  to vincent and staff respectively
+
